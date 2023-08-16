@@ -1,1 +1,30 @@
+.futer{
+    background-color: gold;
+    height: 397px;
+    width: 100%;
+}
+.futerTEXT{
+    color: blue;
+    width: 100%;
+    text-align: center;
+}
+.futerTEXT2{
+color: aliceblue;
+height: 65px;
+}
+.email{
+    height: 50px;
+    color: cadetblue;
+    text-align: center;
+}
+.tel{
+    height: 30px;
+    color: black;
+    text-align: center;
+}
+.van{
+    
+}
+.tu{
 
+}
