@@ -36,9 +36,6 @@ height: 65px;
     width: 105px;
     height: 97px;
 }
-
-
-
 .title{
     color: #000;
     font-family: Inika;
@@ -52,4 +49,24 @@ height: 65px;
     border-bottom: 1px solid #0092e4;
     margin-left: 80px;
 }
+.hedr{
+    
+}
+.starthedrTEXT{
 
+}
+.y{
+    width: 589px;
+    height: 65px;
+    margin: auto;
+}
+.hedrTEXT{
+    color: blue;
+}
+.hedrTEXTtu{
+    color: gold;
+}
+.hedrcarts{
+    width: 100%;
+    height: 831px;
+}
