@@ -23,12 +23,21 @@ height: 65px;
     color: black;
     text-align: center;
 }
+.carts{
+    width: 210.84px;
+    height: 97px;
+    margin: auto;
+}
 .van{
-    
+    width: 87px;
+    height: 97px;
 }
 .tu{
-
+    width: 105px;
+    height: 97px;
 }
+
+
 
 .title{
     color: #000;
