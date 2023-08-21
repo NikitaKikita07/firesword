@@ -1,3 +1,4 @@
+
 .futer{
     background-color: gold;
     height: 397px;
@@ -28,3 +29,18 @@ height: 65px;
 .tu{
 
 }
+
+.title{
+    color: #000;
+    font-family: Inika;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 144.826%; /* 69.516px */
+    width: 456px;
+    height: 67px;
+    flex-shrink: 0;
+    border-bottom: 1px solid #0092e4;
+    margin-left: 80px;
+}
+
