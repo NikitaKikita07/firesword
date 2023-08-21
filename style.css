@@ -22,9 +22,20 @@ height: 65px;
     color: black;
     text-align: center;
 }
-.van{
-    
+.carts{
+    width: 210.84px;
+    height: 97px;
+    margin: auto;
 }
+.van{
+    width: 87px;
+    height: 97px;
+}
+/* .tu{
+    width: 95.84px;
+    height: 87px;
+} */
 .tu{
-
+    width: 105px;
+    height: 97px;
 }
