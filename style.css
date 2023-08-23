@@ -49,8 +49,6 @@ height: 65px;
     border-bottom: 1px solid #0092e4;
     margin-left: 80px;
 }
-.hedr{ 
-}
 .starthedrTEXT{
     padding-right: 700px;
 }
@@ -81,7 +79,7 @@ height: 65px;
 .begraynttext{
     width: 640px;
     height: 258px;
-    /* background-position: center; */
+    background-position: center; 
     padding-right: 2679px;
 }
 
