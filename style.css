@@ -1,7 +1,9 @@
 @media screen and (max-width: 768px) {
     .futer{
         display: flex;
+        flex-direction: column;
     }
+
 }
 .futer{
     background-color: gold;
@@ -27,11 +29,18 @@ height: 65px;
     color: black;
     text-align: center;
 }
+.carts{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
 .van{
-    
+   width: 87px;
+   height: 97px; 
 }
 .tu{
-
+ width: 105px;
+ height: 97px;
 }
 
 .title{
