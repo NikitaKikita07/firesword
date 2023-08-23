@@ -1,4 +1,9 @@
-
+@media screen and (max-width: 768px) {
+    .futer{
+        display: flex;
+        flex-direction: column;
+    }
+}
 .futer{
     background-color: gold;
     height: 397px;
