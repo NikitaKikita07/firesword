@@ -1,5 +1,6 @@
 
 
+
 .box{
     display: flex;
     justify-content: center;
@@ -80,6 +81,7 @@ line-height: 144.826%;
         flex-direction: column;
     }
 }
+
 .futer{
     background-color: gold;
     height: 397px;
